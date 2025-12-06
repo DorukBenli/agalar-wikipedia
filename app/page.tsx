@@ -8,10 +8,10 @@ const events: HistoricalEvent[] = eventsData as HistoricalEvent[];
 export default function Home() {
   return (
     <div className="wiki-content">
-      <h1 className="text-4xl font-bold mb-6">Tarihsel Olaylar</h1>
+      <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-6">Tarihsel Olaylar</h1>
 
       <div className="mb-8">
-        <p className="text-lg mb-4">
+        <p className="text-base sm:text-lg mb-4">
           Aşağıda Sabancı Üniversitesi edebi agalar grubu üyelerinin dahil olduğu/başından geçen
           önemli olayların listesi verilmektedir.
         </p>
@@ -21,26 +21,26 @@ export default function Home() {
         <h2>Featured Events</h2>
         <div className="grid gap-6">
           {events.map((event) => (
-            <div key={event.id} className="border border-gray-300 rounded-lg p-6 hover:shadow-lg transition-shadow">
-              <div className="flex gap-4">
+            <div key={event.id} className="border border-gray-300 rounded-lg p-4 sm:p-6 hover:shadow-lg transition-shadow">
+              <div className="flex flex-col sm:flex-row gap-4">
                 {event.imageUrl && (
                   <div className="flex-shrink-0">
                     <img
                       src={getAssetPath(event.imageUrl)}
                       alt={event.title}
-                      className="w-48 h-32 object-cover rounded"
+                      className="w-full sm:w-48 h-48 sm:h-32 object-cover rounded"
                     />
                   </div>
                 )}
                 <div className="flex-grow">
-                  <h3 className="text-2xl font-semibold mb-2">
+                  <h3 className="text-xl sm:text-2xl font-semibold mb-2">
                     <Link href={`/events/${event.id}`} className="wiki-link">
                       {event.title}
                     </Link>
                   </h3>
                   <p className="text-sm text-gray-600 mb-3">{event.date}</p>
-                  <p className="text-gray-700 mb-3">{event.summary}</p>
-                  <div className="flex gap-4 text-sm">
+                  <p className="text-gray-700 mb-3 text-sm sm:text-base">{event.summary}</p>
+                  <div className="flex flex-col sm:flex-row gap-2 sm:gap-4 text-sm">
                     <span className="text-gray-600">
                       <strong>Taraflar:</strong> {event.sides.length} sides
                     </span>
@@ -53,7 +53,7 @@ export default function Home() {
                   </div>
                   <Link
                     href={`/events/${event.id}`}
-                    className="inline-block mt-4 text-blue-600 hover:underline font-medium"
+                    className="inline-block mt-4 text-blue-600 hover:underline font-medium text-sm sm:text-base"
                   >
                     Read more →
                   </Link>

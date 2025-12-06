@@ -327,5 +327,438 @@
         "impact": "long-term"
       }
     ]
+  },
+  {
+    "id": "thc101mmx-taha-standup",
+    "title": "THÇ101MMX - Taha'nın Standup Gösterisi",
+    "summary": "Taha Çakmak'ın Hollanda'ya gitmeden önce Ayşegül Özen'in zorlamasıyla Sabancı Üniversitesi sinema salonunda 60+ kişi önünde standup gösterisi vermesi ve etkinlik sonunda para toplanması.",
+    "date": "2024-2025",
+    "imageUrl": "/images/agalar.jpeg",
+    "people": [
+      {
+        "name": "Taha Çakmak",
+        "role": "Standup gösterisi yapan kişi",
+        "side": "Gösteriyi yapan taraf",
+        "bio": "Mezun olduktan sonra söz verdiği standup gösterisini Ayşegül'ün zorlamasıyla yapan kişi."
+      },
+      {
+        "name": "Ayşegül Özen",
+        "role": "Etkinliği zorla yaptıran kişi",
+        "side": "Etkinliği zorla yaptıranlar",
+        "bio": "Taha'yı standup gösterisi yapmaya zorlayan ve etkinliği organize eden kişi."
+      },
+      {
+        "name": "Mert Kuleci",
+        "role": "Etkinliğe katılan",
+        "side": "İzleyiciler",
+        "bio": "Etkinliğe katılan ve Taha'nın gösterisini izleyen kişi."
+      },
+      {
+        "name": "Salih Numan Büyükbaş",
+        "role": "Etkinliğe katılan",
+        "side": "İzleyiciler",
+        "bio": "Etkinliğe katılan ve Taha'nın gösterisini izleyen kişi."
+      },
+      {
+        "name": "Ahmet Yelboğa",
+        "role": "Etkinliğe katılan",
+        "side": "İzleyiciler",
+        "bio": "Etkinliğe katılan ve Taha'nın gösterisini izleyen kişi."
+      }
+    ],
+    "sides": [
+      {
+        "name": "Etkinliği Zorla Yaptıranlar",
+        "leaders": ["Ayşegül Özen"],
+        "description": "Taha'yı söz verdiği standup gösterisini yapmaya zorlayan grup."
+      },
+      {
+        "name": "Taha Çakmak",
+        "leaders": ["Taha Çakmak"],
+        "description": "Standup gösterisini yapmak zorunda kalan taraf."
+      }
+    ],
+    "causes": [
+      {
+        "title": "Mezuniyet sözü",
+        "description": "Taha'nın mezun olduğunda standup gösterisi yapacağına dair verdiği söz."
+      },
+      {
+        "title": "Ayşegül'ün zorlaması",
+        "description": "Ayşegül Özen'in Taha'yı sözünü tutmaya zorlaması."
+      }
+    ],
+    "event": {
+      "date": "2024-2025",
+      "location": "Sabancı Üniversitesi sinema salonu",
+      "description": "Taha'nın Hollanda'ya gitmeden önce Ayşegül'ün zorlamasıyla herkese standup gösterisi vermesi. Gösteriyi Sabancı Üniversitesi sinema salonunda 60+ kişi izledi. Etkinlik sonunda Taha'ya para toplandı, katılanlar eğlendi.",
+      "keyMoments": [
+        "Taha'nın mezuniyet sözü",
+        "Ayşegül'ün etkinliği organize etmesi",
+        "60+ kişinin sinema salonunda toplanması",
+        "Taha'nın standup gösterisi yapması",
+        "Etkinlik sonunda Taha'ya para toplanması"
+      ]
+    },
+    "results": [
+      {
+        "title": "Mutlak Etkinliği Zorla Yaptıranlar Zaferi",
+        "description": "Taha söz verdiği standup gösterisini yaptı ve etkinlik başarılı geçti."
+      },
+      {
+        "title": "Katılımcıların Eğlenmesi",
+        "description": "60+ kişi Taha'nın gösterisini izledi ve eğlendi."
+      }
+    ],
+    "effects": [
+      {
+        "category": "Sosyal",
+        "description": "Taha sözünü tuttu ve standup gösterisi yaptı.",
+        "impact": "short-term"
+      },
+      {
+        "category": "Ekonomik",
+        "description": "Toplanan para sayesinde Taha daha rahat uçabildi.",
+        "impact": "short-term"
+      },
+      {
+        "category": "Kültürel",
+        "description": "Başarılı bir etkinlik gerçekleştirildi ve katılımcılar eğlendi.",
+        "impact": "short-term"
+      }
+    ]
+  },
+  {
+    "id": "osman-papa-johns-kavgasi",
+    "title": "Osman Kara Papa John's Kavgası",
+    "summary": "Osman Kara'nın Papa John's ile yaşadığı ödeme anlaşmazlığı ve sonrasında kurye ile yaşadığı küfürlü tartışma.",
+    "date": "2023",
+    "imageUrl": "/images/Osman-mesaj.jpeg",
+    "people": [
+      {
+        "name": "Osman Kara",
+        "role": "Pizza sipariş eden ve anlaşmazlık yaşayan kişi",
+        "side": "Osman Kara",
+        "bio": "Papa John's ile ödeme anlaşmazlığı yaşayan ve kurye ile küfürlü tartışmaya giren kişi."
+      }
+    ],
+    "sides": [
+      {
+        "name": "Osman Kara",
+        "leaders": ["Osman Kara"],
+        "description": "Ödeme anlaşmazlığı yaşayan ve kuryeye 'anca gül böyle' diyen taraf."
+      },
+      {
+        "name": "Papa John's",
+        "leaders": ["Papa John's kuryeleri"],
+        "description": "Ödeme talep eden ve Osman'a küfreden kurye tarafı."
+      }
+    ],
+    "causes": [
+      {
+        "title": "Ödeme anlaşmazlığı",
+        "description": "Kurye ödemeyi ilandan isterken Osman'ın bunu reddetmesi."
+      },
+      {
+        "title": "Anlaşmanın bozulması",
+        "description": "Bir sonraki gün sipariş verme anlaşması yapılması ancak kurye pizzayı getirmemesi gerekirken getirmesi."
+      }
+    ],
+    "event": {
+      "date": "2023",
+      "location": "Sabancı Üniversitesi",
+      "description": "Osman Kara Papa John's'tan pizza sipariş eder. Kurye ödemeyi ilandan isteyince Osman bunu reddeder ve karşılığında bir sonraki gün aynı siparişi verme anlaşmasında bulunurlar. Osman bu siparişi verir, kurye pizzayı teslim etmemesi gerekirken pizzayı getirir. Ardından kurye Osman'ı arayarak parayı ister. Osman hayır deyince kurye Osman'a ana avrat küfreder, Osman da 'anca gül böyle' diyerek adamla taşak geçer.",
+      "keyMoments": [
+        "Osman'ın pizza siparişi vermesi",
+        "Kurye'nin ödemeyi ilandan istemesi",
+        "Osman'ın reddetmesi ve anlaşma yapılması",
+        "Kurye'nin anlaşmayı bozarak pizzayı getirmesi",
+        "Kurye'nin para istemesi ve küfretmesi",
+        "Osman'ın 'anca gül böyle' demesi"
+      ]
+    },
+    "results": [
+      {
+        "title": "Belirsiz sonuç",
+        "description": "Kavga küfürleşme ile sonuçlandı, net bir kazanan olmadı."
+      }
+    ],
+    "effects": [
+      {
+        "category": "Sosyal",
+        "description": "Osman Kara ile Papa John's arasında anlaşmazlık yaşandı.",
+        "impact": "short-term"
+      },
+      {
+        "category": "Eğlence",
+        "description": "Osman kuryeye 'anca gül böyle' diyerek taşak geçti.",
+        "impact": "short-term"
+      }
+    ]
+  },
+  {
+    "id": "kocaelispor-bandirmaspor-ahmet-tasdik",
+    "title": "Kocaelispor - Bandırmaspor: Ahmet Yelboğa'nın Edebi Agalar Tasdiki",
+    "summary": "Taha, Salih, Osman ve Mert'in İzmit seyahati sırasında Kartepe'ye çıkmaları, sucuk ekmek yemeleri ve Kocaelispor'un Süper Lig yolunda önemli maçına tanıklık etmeleri. Bu seyahat sonunda Ahmet Yelboğa edebi agalara girdi.",
+    "date": "2024-11-24",
+    "imageUrl": "/images/agalar.jpeg",
+    "people": [
+      {
+        "name": "Ahmet Yelboğa",
+        "role": "Edebi agalara giren kişi",
+        "side": "Arkadaşlık",
+        "bio": "İzmit seyahati sonunda edebi agalara kabul edilen kişi."
+      },
+      {
+        "name": "Taha Çakmak",
+        "role": "İzmit seyahatine katılan",
+        "side": "Arkadaşlık",
+        "bio": "İzmit seyahatine katılan ve Kocaelispor maçını izleyen kişi."
+      },
+      {
+        "name": "Salih Numan Büyükbaş",
+        "role": "İzmit seyahatine katılan",
+        "side": "Arkadaşlık",
+        "bio": "İzmit seyahatine katılan ve Kocaelispor maçını izleyen kişi."
+      },
+      {
+        "name": "Osman Kara",
+        "role": "İzmit seyahatine katılan",
+        "side": "Arkadaşlık",
+        "bio": "İzmit seyahatine katılan ve Kocaelispor maçını izleyen kişi."
+      },
+      {
+        "name": "Mert Kuleci",
+        "role": "İzmit seyahatine katılan",
+        "side": "Arkadaşlık",
+        "bio": "İzmit seyahatine katılan ve Kocaelispor maçını izleyen kişi."
+      }
+    ],
+    "sides": [
+      {
+        "name": "Arkadaşlık",
+        "leaders": ["Taha Çakmak", "Salih Numan Büyükbaş", "Osman Kara", "Mert Kuleci", "Ahmet Yelboğa"],
+        "description": "İzmit seyahatine katılan ve beraber vakit geçiren arkadaş grubu."
+      }
+    ],
+    "causes": [
+      {
+        "title": "İzmit seyahati",
+        "description": "İki günlük İzmit seyahati planlanması."
+      },
+      {
+        "title": "Kocaelispor maçı",
+        "description": "Kocaelispor'un Süper Lig yolunda önemli bir maçının olması."
+      }
+    ],
+    "event": {
+      "date": "2024-11-24",
+      "location": "Yıldız Entegre Kocaeli Stadı ve İzmit Dağları",
+      "description": "Taha, Salih, Osman ve Mert, iki günlük İzmit seyahatlerinde Kartepe'ye çıkarak sucuk ekmek yediler ve Kocaelispor'un Süper Lig yolunda önemli bir adımına tanıklık ettiler. Bu seyahat sonunda Ahmet Yelboğa edebi agalara girdi.",
+      "keyMoments": [
+        "İzmit seyahatinin başlaması",
+        "Kartepe'ye çıkış ve sucuk ekmek yeme",
+        "Kocaelispor maçını izleme",
+        "Ahmet Yelboğa'nın edebi agalara girmesi"
+      ]
+    },
+    "results": [
+      {
+        "title": "Arkadaşlık Zaferi",
+        "description": "Güzel bir seyahat geçirildi ve arkadaşlıklar güçlendi."
+      },
+      {
+        "title": "Ahmet'in Kabulü",
+        "description": "Ahmet Yelboğa edebi agalara kabul edildi."
+      }
+    ],
+    "effects": [
+      {
+        "category": "Sosyal",
+        "description": "Ahmet Yelboğa edebi agalara girdi.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Kültürel",
+        "description": "Kocaelispor maçına tanıklık edildi ve hatıra oluşturuldu.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Spor",
+        "description": "Sakaryaspor kaybetti, Kocaelispor Süper Lig yolunda ilerledi.",
+        "impact": "short-term"
+      }
+    ]
+  },
+  {
+    "id": "osman-ban-ciggers-mesaji",
+    "title": "Osman Kara 'Ban Ciggers' Mesajı",
+    "summary": "19 Mart 2025 protestoları kapsamında Osman Kara'nın Doruk Benli ile pizza iddiası sonucu 'Ban Ciggers' mesajını 1000 kişilik eylem komitesi grubuna atması ve bunun sonucunda yaşanan tartışma.",
+    "date": "2025-04-08",
+    "imageUrl": "/images/Osman-mesaj.jpeg",
+    "people": [
+      {
+        "name": "Osman Kara",
+        "role": "Mesajı atan kişi",
+        "side": "Osman Kara ve Doruk Benli",
+        "bio": "Doruk ile iddiaya girerek eylem komitesi grubuna tartışmalı mesaj atan kişi."
+      },
+      {
+        "name": "Doruk Benli",
+        "role": "İddianın diğer tarafı",
+        "side": "Osman Kara ve Doruk Benli",
+        "bio": "Osman ile pizza iddiasına giren ve kazanan kişi."
+      }
+    ],
+    "sides": [
+      {
+        "name": "Osman Kara ve Doruk Benli",
+        "leaders": ["Osman Kara", "Doruk Benli"],
+        "description": "İddianın tarafları."
+      },
+      {
+        "name": "Eylem Komitesi",
+        "leaders": ["Eylem komitesi üyeleri"],
+        "description": "Mesajdan rahatsız olan ve Osman'ı gruptan atan taraf."
+      }
+    ],
+    "causes": [
+      {
+        "title": "Pizza iddiası",
+        "description": "Osman Kara ile Doruk Benli arasında büyük boy Bulls pizza iddiası."
+      },
+      {
+        "title": "Tartışmalı mesaj",
+        "description": "Osman'ın 'Ban Ciggers' mesajını 1000 kişilik gruba atması."
+      }
+    ],
+    "event": {
+      "date": "2025-04-08",
+      "location": "Sabancı Üniversitesi eylem WhatsApp grubu",
+      "description": "19 Mart 2025 protestoları kapsamında Osman Kara 'Ban Ciggers' mesajını 1000 kişilik gruba attı. Bu mesajı atma nedeni Doruk Benli ile bir adet büyük boy Bulls pizza iddiasına girmesiydi. Osman mesajı atmış ve ciddi bir tartışmaya neden oldu.",
+      "keyMoments": [
+        "Osman ve Doruk'un pizza iddiasına girmesi",
+        "Osman'ın 'Ban Ciggers' mesajını atması",
+        "Eylem komitesinde tartışmanın başlaması",
+        "Osman'ın gruptan atılması",
+        "Doruk'un pizzasını alması"
+      ]
+    },
+    "results": [
+      {
+        "title": "Osman'ın Gruptan Atılması",
+        "description": "Osman Kara eylem komitesinden atıldı."
+      },
+      {
+        "title": "Doruk'un İddiayı Kazanması",
+        "description": "Doruk Benli Osman'a pizzasını aldı."
+      }
+    ],
+    "effects": [
+      {
+        "category": "Sosyal",
+        "description": "Osman Kara eylem komitesinden atıldı.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Ekonomik",
+        "description": "Doruk Osman'dan pizzasını aldı.",
+        "impact": "short-term"
+      },
+      {
+        "category": "Politik",
+        "description": "Eylem komitesinde ciddi bir tartışma yaşandı.",
+        "impact": "short-term"
+      }
+    ]
+  },
+  {
+    "id": "sig-vs-oguz-ai-savaşi",
+    "title": "Sığ vs Oğuz: Yapay Zeka Savaşı",
+    "summary": "Sabancı Üniversitesi CS404 dersi köprü yerleştirme ödevi için geliştirilmiş iki yapay zekanın (Sığ ve Oğuz) rekabetçi oyunda karşılaşması ve Oğuz'un zaferi.",
+    "date": "2024",
+    "imageUrl": "/images/ai_compepetion.jpg",
+    "people": [
+      {
+        "name": "Salih Numan Büyükbaş",
+        "role": "Oğuz AI'sını geliştiren",
+        "side": "Oğuz takımı",
+        "bio": "Taha ile birlikte derin ama yavaş Oğuz AI modelini geliştiren kişi."
+      },
+      {
+        "name": "Taha Çakmak",
+        "role": "Oğuz AI'sını geliştiren",
+        "side": "Oğuz takımı",
+        "bio": "Salih ile birlikte derin ama yavaş Oğuz AI modelini geliştiren kişi."
+      },
+      {
+        "name": "Kayra",
+        "role": "Sığ AI'sını geliştiren",
+        "side": "Sığ takımı",
+        "bio": "Erdem ile birlikte sığ Sığ AI modelini geliştiren kişi."
+      },
+      {
+        "name": "Erdem",
+        "role": "Sığ AI'sını geliştiren",
+        "side": "Sığ takımı",
+        "bio": "Kayra ile birlikte sığ Sığ AI modelini geliştiren kişi."
+      }
+    ],
+    "sides": [
+      {
+        "name": "Oğuz Takımı",
+        "leaders": ["Salih Numan Büyükbaş", "Taha Çakmak"],
+        "description": "Derin ama yavaş Oğuz AI'sını geliştiren takım."
+      },
+      {
+        "name": "Sığ Takımı",
+        "leaders": ["Kayra", "Erdem"],
+        "description": "Sığ ama hızlı Sığ AI'sını geliştiren takım."
+      }
+    ],
+    "causes": [
+      {
+        "title": "CS404 dersi ödevi",
+        "description": "Köprü yerleştirme oyunu için AI geliştirilmesi gerekliliği."
+      },
+      {
+        "title": "Minimax algoritması rekabeti",
+        "description": "İki farklı yaklaşımla minimax algoritması uygulanması."
+      }
+    ],
+    "event": {
+      "date": "2024",
+      "location": "Dijital ortam",
+      "description": "Sığ ve Oğuz, Sabancı Üniversitesi CS404 dersindeki köprü yerleştirme ödevi için dizayn edilmiş minimax algoritması tabanlı birer yapay zekadır. Rekabetçi oyunda karşı karşıya geldiler ve kozlarını paylaştılar. Sığ adı üzerinde sığ bir modeldir (max depth: 2). Oğuz ise derin ama yavaş bir modeldir.",
+      "keyMoments": [
+        "İki AI modelinin geliştirilmesi",
+        "Sığ ve Oğuz'un karşılaşması",
+        "Zaman kısıtı olmadığı için Oğuz'un avantajı",
+        "Oğuz'un daha fazla state hesaplayarak kazanması"
+      ]
+    },
+    "results": [
+      {
+        "title": "Mutlak Oğuz Zaferi",
+        "description": "Oğuz, Sığ'ı daha çok state hesaplayarak yendi."
+      }
+    ],
+    "effects": [
+      {
+        "category": "Akademik",
+        "description": "Oğuz'un derinliği Sığ'ın hızına karşı zafer kazandı.",
+        "impact": "short-term"
+      },
+      {
+        "category": "Teknik",
+        "description": "Zaman kısıtı olmadığında derinliğin önemi kanıtlandı.",
+        "impact": "short-term"
+      },
+      {
+        "category": "Sosyal",
+        "description": "Salih ve Taha takımı Kayra ve Erdem takımını yendi.",
+        "impact": "short-term"
+      }
+    ]
   }
 ]
