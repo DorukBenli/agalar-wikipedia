@@ -3,7 +3,6 @@ import eventsData from "@/data/events.json";
 import { HistoricalEvent } from "@/types/event";
 
 const events: HistoricalEvent[] = eventsData as HistoricalEvent[];
-const basePath = process.env.NODE_ENV === 'production' ? '/agalar-wikipedia' : '';
 
 export default function Home() {
   return (
@@ -26,7 +25,7 @@ export default function Home() {
                 {event.imageUrl && (
                   <div className="flex-shrink-0">
                     <img
-                      src={`${basePath}${event.imageUrl}`}
+                      src={event.imageUrl}
                       alt={event.title}
                       className="w-48 h-32 object-cover rounded"
                     />

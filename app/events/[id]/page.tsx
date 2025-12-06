@@ -4,7 +4,6 @@ import eventsData from "@/data/events.json";
 import { HistoricalEvent } from "@/types/event";
 
 const events = eventsData as HistoricalEvent[];
-const basePath = process.env.NODE_ENV === 'production' ? '/agalar-wikipedia' : '';
 
 export async function generateStaticParams() {
   return events.map((event) => ({
@@ -32,7 +31,7 @@ export default async function EventPage({ params }: { params: Promise<{ id: stri
         </div>
         {event.imageUrl && (
           <div className="p-2 border-b border-gray-300">
-            <img src={`${basePath}${event.imageUrl}`} alt={event.title} className="w-full" />
+            <img src={event.imageUrl} alt={event.title} className="w-full" />
           </div>
         )}
         <table className="w-full">
