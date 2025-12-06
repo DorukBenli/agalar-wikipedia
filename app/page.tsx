@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import eventsData from "@/data/events.json";
 import { HistoricalEvent } from "@/types/event";
 
@@ -25,11 +24,9 @@ export default function Home() {
               <div className="flex gap-4">
                 {event.imageUrl && (
                   <div className="flex-shrink-0">
-                    <Image
+                    <img
                       src={event.imageUrl}
                       alt={event.title}
-                      width={192}
-                      height={128}
                       className="w-48 h-32 object-cover rounded"
                     />
                   </div>

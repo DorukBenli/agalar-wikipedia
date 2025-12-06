@@ -1,6 +1,5 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import Image from "next/image";
 import eventsData from "@/data/events.json";
 import { HistoricalEvent } from "@/types/event";
 
@@ -32,7 +31,7 @@ export default async function EventPage({ params }: { params: Promise<{ id: stri
         </div>
         {event.imageUrl && (
           <div className="p-2 border-b border-gray-300">
-            <Image src={event.imageUrl} alt={event.title} width={300} height={200} className="w-full" />
+            <img src={event.imageUrl} alt={event.title} className="w-full" />
           </div>
         )}
         <table className="w-full">
