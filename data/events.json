@@ -1,0 +1,331 @@
+[
+  {
+    "id": "recine-krizi",
+    "title": "Reçine Krizi",
+    "summary": "Reçineciler tarafından Osman Kara'nın faşist olmakla suçlanması sonucu çıkan iç savaş. Reçine Dergisi kulüpten ayrılıp fanzin olarak çıkmaya başlarken, edebiyat kulübü Harmoni dergisini bastı.",
+    "date": "2023-2023",
+    "imageUrl": "/images/dergi.jpeg",
+    "people": [
+      {
+        "name": "Osman Kara",
+        "role": "Kulüp içerisinde sözde faşist fikirler paylaşan ve iç savaşa neden olan ana aktör",
+        "side": "Harmoni ve edebiyat kulübü",
+        "bio": "Osman Kara Sabancı Üniversitesi yüksek lisans öğrencisi."
+      },
+      {
+        "name": "Rana",
+        "role": "Osman'ı faşist olmakla suçlayıp savaşı başlatan kişi",
+        "side": "Reçine",
+        "bio": "Herkese mail atarak Osman'ı faşist olmakla suçlayan ve krizin başlamasına neden olan kişi."
+      },
+      {
+        "name": "Mert Kuleci",
+        "role": "Kulüp prezidenti",
+        "side": "Edebiyat kulübü",
+        "bio": "Kulübün dağılmasını engellemeye çalıştı."
+      },
+      {
+        "name": "Salih Numan Büyükbaş",
+        "role": "Kriz sonrası Taha Çakmak ile tanışan kişi",
+        "side": "Harmoni ve edebiyat kulübü",
+        "bio": "Reçine krizi sonrası Taha Çakmak ile tanıştı."
+      },
+            {
+        "name": "Taha Çakmak",
+        "role": "Kriz sonrası Salih Numan Büyükbaş ile tanışan kişi",
+        "side": "Harmoni ve edebiyat kulübü",
+        "bio": "Reçine krizi sonrası Salih Numan Büyükbaş ile tanıştı."
+      }
+    ],
+    "sides": [
+      {
+        "name": "Reçineciler",
+        "leaders": ["Rana"],
+        "description": "Reçine dergisini kulüpten ayırarak bağımsız bir fanzin olarak çıkartmak isteyen grup."
+      },
+      {
+        "name": "Harmoni ve Edebiyat Kulübü",
+        "leaders": ["Mert Kuleci", "Osman Kara"],
+        "description": "Edebiyat kulübü içinde yeni Harmoni dergisini çıkartan grup."
+      }
+    ],
+    "causes": [
+      {
+        "title": "Faşizm suçlaması",
+        "description": "Rana'nın Osman Kara'yı faşist fikirler paylaşmakla suçlaması."
+      },
+      {
+        "title": "İdeolojik ayrılıklar",
+        "description": "Kulüp içerisindeki ideolojik görüş farklılıkları ve gerilimler."
+      },
+      {
+        "title": "Dergi yönetimi anlaşmazlığı",
+        "description": "Reçine dergisinin yönetimi ve kulüp ile ilişkisi konusundaki anlaşmazlıklar."
+      }
+    ],
+    "event": {
+      "date": "2023-2023",
+      "location": "Sabancı Üniversitesi / Sabancı Üniversitesi Piazza",
+      "description": "Reçineciler, Osman Kara'yı faşist olmakla suçladı ve bir iç savaşa neden oldu. Sonuçta dergiyi kulüpten ayırıp ayrı bir fanzin olarak çıkartmak istediler. Bunun karşılığında edebiyat kulübü kendi yeni dergisi olan Harmoni'yi bastı, Reçineciler ise kendi fanzinlerini çıkartıyor.",
+      "keyMoments": [
+        "Rana'nın herkese mail atıp Osman'ı faşist diye suçlaması",
+        "Reçine dergisinin kulüpten ayrılma kararı",
+        "Harmoni dergisinin basılması",
+        "Reçinecilerin kulüpten çıkması"
+      ]
+    },
+    "results": [
+      {
+        "title": "Harmoni ve Edebiyat Kulübü Zaferi",
+        "description": "Edebiyat kulübü varlığını sürdürdü ve yeni dergisi Harmoni'yi çıkarmaya başladı."
+      },
+      {
+        "title": "Reçine'nin Bağımsızlığı",
+        "description": "Reçineciler kulüpten ayrılarak bağımsız bir fanzin olarak yayınlarını sürdürdü."
+      }
+    ],
+    "effects": [
+      {
+        "category": "Sosyal",
+        "description": "Salih Taha Çakmak ile tanışılması ve edebiyat kulübüne katılması.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Organizasyonel",
+        "description": "Yeni bir dergi (Harmoni) ortaya çıktı.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Politik",
+        "description": "Osman Kara edebiyat kulübünde bulunmaya devam etti.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Organizasyonel",
+        "description": "Reçineciler kulüpten ayrıldı.",
+        "impact": "long-term"
+      }
+    ]
+  },
+  {
+    "id": "tenis-kulubu-kapanmasi",
+    "title": "Tenis Kulübünün Kapanması",
+    "summary": "Salih Numan Büyükbaş'ın, Atakan Bozbek ve ekibinin hiçbir iş yapmadıkları için kulüp yönetiminden ayrılmasını istemesi sonucu çıkan anlaşmazlık ve seçim. Seçimi Atakan kazanmasına rağmen kulüp inaktif hale geldi ve kapandı.",
+    "date": "2022-2024",
+    "imageUrl": "/images/tenis.jpeg",
+    "people": [
+      {
+        "name": "Salih Numan Büyükbaş",
+        "role": "Kulüp eş başkanı",
+        "side": "Salih grubu",
+        "bio": "Atakan ve ekibinin hiçbir iş yapmadığını düşünerek istifalarını isteyen eş başkan. Seçim sonrası kulüpten ayrıldı."
+      },
+      {
+        "name": "İdil Dikmen",
+        "role": "Kulüp eş başkanı",
+        "side": "Salih grubu",
+        "bio": "Salih ile birlikte çalışan ve seçim sonrası kulüpten ayrılan eş başkan."
+      },
+      {
+        "name": "Atakan Bozbek",
+        "role": "Kulüp eş başkanı",
+        "side": "Atakan grubu",
+        "bio": "Seçimi kazanan ancak kulübü aktif tutamayan eş başkan."
+      },
+      {
+        "name": "Aysun",
+        "role": "Kulüp sorumlusu",
+        "side": "Atakan grubu",
+        "bio": "Görüşme sırasında Atakan'ları savunan kulüp sorumlusu."
+      }
+    ],
+    "sides": [
+      {
+        "name": "Salih Grubu",
+        "leaders": ["Salih Numan Büyükbaş", "İdil Dikmen"],
+        "description": "Atakan ve ekibinin performansından memnun olmayan ve istifalarını isteyen grup."
+      },
+      {
+        "name": "Atakan Grubu",
+        "leaders": ["Atakan Bozbek"],
+        "description": "İstifa talebini reddeden ve seçimi kazanan ancak kulübü aktif tutamayan grup."
+      }
+    ],
+    "causes": [
+      {
+        "title": "Performans yetersizliği",
+        "description": "Salih'in, Atakan ve arkadaşlarının kulüp için yeterince iş yapmadığını düşünmesi."
+      },
+      {
+        "title": "Yönetim anlaşmazlığı",
+        "description": "Kulüp yönetiminde görev dağılımı ve sorumluluklar konusunda yaşanan anlaşmazlıklar."
+      },
+      {
+        "title": "İstifa talebi reddi",
+        "description": "Atakan ve ekibinin istifa talebini reddetmesi ve seçime gidilmesi."
+      }
+    ],
+    "event": {
+      "date": "2022-2024",
+      "location": "Sabancı Üniversitesi",
+      "description": "Salih hiçbir iş yapmadıkları için, Atakan ve arkadaşlarının kulüp yöneticiliğinden ayrılmasını istedi. Ayrılmadılar, Atakan'ın ekibi bunu reddetti. Aysun ile görüşme sırasında Aysun Atakan'ları savundu ve seçime gidildi. Seçimi Atakan kazandı ve Salih ve İdil kulüpten ayrıldı. Hiç iş yapmadıkları için tenis kulübü inaktif hale geldi ve kapandı.",
+      "keyMoments": [
+        "Salih'in Atakan ve ekibinin istifasını istemesi",
+        "Atakan grubunun istifa talebini reddetmesi",
+        "Aysun ile görüşme ve Aysun'un Atakan'ı savunması",
+        "Kulüp seçiminin yapılması",
+        "Atakan'ın seçimi kazanması",
+        "Salih ve İdil'in kulüpten ayrılması",
+        "Kulübün inaktif hale gelmesi ve kapanması"
+      ]
+    },
+    "results": [
+      {
+        "title": "Atakan'ın Seçim Zaferi",
+        "description": "Atakan seçimi kazanarak kulüp başkanlığını sürdürdü."
+      },
+      {
+        "title": "Salih ve İdil'in Ayrılması",
+        "description": "Salih ve İdil eş başkanlığı bırakarak kulüpten ayrıldı."
+      },
+      {
+        "title": "Kulübün Kapanması",
+        "description": "Yeterli aktivite olmadığı için tenis kulübü inaktif hale geldi ve sonunda kapandı."
+      }
+    ],
+    "effects": [
+      {
+        "category": "Organizasyonel",
+        "description": "Tenis kulübü kapandı.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Sosyal",
+        "description": "Atakan'la Salih bozuştu.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Yönetimsel",
+        "description": "Salih ve İdil eş başkanlığı bıraktı.",
+        "impact": "short-term"
+      }
+    ]
+  },
+  {
+    "id": "derin-buyuk-ada-lego-kavgasi",
+    "title": "Derin Büyük Ada Lego Kavgası",
+    "summary": "Emirhan Özdemir'in kokoreç ısmarlaması üzerine bazı arkadaşlarının Emirhan'a lego araba hediye alması, ancak daha eski arkadaşlarının hiçbir şey almaması nedeniyle çıkan kavga.",
+    "date": "2024-2025",
+    "imageUrl": "/images/agalar.jpeg",
+    "people": [
+      {
+        "name": "Doruk Benli",
+        "role": "Emirhan'a hediye alan grup üyesi",
+        "side": "Hediye alan grup",
+        "bio": "Emirhan'a lego araba hediye alan ve 1 sene sonra bir tatilde Zeynep ve Şevval ile iletişimi kesen kişi."
+      },
+      {
+        "name": "Osman Kara",
+        "role": "Emirhan'a hediye alan grup üyesi",
+        "side": "Hediye alan grup",
+        "bio": "Emirhan'a lego araba hediye alan ve yat partisinde Zeynep ve Şevval ile iletişimi kesen kişi."
+      },
+      {
+        "name": "Zeynep Türkmen",
+        "role": "Emirhan'ın daha eski arkadaşı",
+        "side": "Hediye almayan grup",
+        "bio": "Emirhan'ın daha eski arkadaşlarından biri, hediye almadığı için eleştirilen taraf."
+      },
+      {
+        "name": "Şevval Karadeniz",
+        "role": "Emirhan'ın daha eski arkadaşı",
+        "side": "Hediye almayan grup",
+        "bio": "Emirhan'ın daha eski arkadaşlarından biri, hediye almadığı için eleştirilen taraf."
+      },
+      {
+        "name": "Barış Ulaş Çukur",
+        "role": "Emirhan'a hediye alan grup üyesi",
+        "side": "Hediye alan grup",
+        "bio": "Emirhan'a lego araba hediye alan ve yat partisinde Zeynep ve Şevval ile iletişimi kesen kişi."
+      },
+      {
+        "name": "Pelinsu Saraç",
+        "role": "Emirhan'a hediye alan grup üyesi",
+        "side": "Hediye alan grup",
+        "bio": "Emirhan'a lego araba hediye alan ve yat partisinde Zeynep ve Şevval ile iletişimi kesen kişi."
+      },
+      {
+        "name": "Emirhan Özdemir",
+        "role": "Herkese kokoreç ısmarlan ve hediye alınan kişi",
+        "side": "Tarafsız",
+        "bio": "Herkese kokoreç ısmarlaması sonucu arkadaşları arasında kavgaya neden olan kişi."
+      }
+    ],
+    "sides": [
+      {
+        "name": "Hediye Alan Grup",
+        "leaders": ["Doruk Benli", "Osman Kara", "Barış Ulaş Çukur", "Pelinsu Saraç"],
+        "description": "Emirhan'a lego araba hediye alan ve daha sonra Zeynep ve Şevval ile iletişimi kesen grup."
+      },
+      {
+        "name": "Hediye Almayan Grup",
+        "leaders": ["Zeynep Türkmen", "Şevval Karadeniz"],
+        "description": "Emirhan'ın daha eski arkadaşları olmasına rağmen hediye almayan grup."
+      }
+    ],
+    "causes": [
+      {
+        "title": "Kokoreç ısmarlaması",
+        "description": "Emirhan Özdemir'in herkese kokoreç ısmarlaması."
+      },
+      {
+        "title": "Hediye eşitsizliği",
+        "description": "Yeni arkadaşların hediye alması ancak eski arkadaşların hiçbir şey almaması."
+      },
+      {
+        "title": "Arkadaşlık beklentileri",
+        "description": "Daha eski arkadaş olmanın daha fazla karşılık verme beklentisi yaratması."
+      }
+    ],
+    "event": {
+      "date": "2024-2025",
+      "location": "Sabancı Üniversitesi",
+      "description": "Emirhan Özdemir'in herkese kokoreç ısmarlaması üzerine Doruk, Osman Kara, Pelinsu ve Barış Çukur'un Emirhan'a hediye olarak lego araba alması ve Emirhan'ın daha eski arkadaşları olan Zeynep ve Şevval'in hiçbir şey almaması üzerine çıkan kavga.",
+      "keyMoments": [
+        "Emirhan'ın herkese kokoreç ısmarlaması",
+        "Doruk, Osman, Barış ve Pelinsu'nun Emirhan'a lego araba hediye alması",
+        "Zeynep ve Şevval'in hediye almaması",
+        "Kavganın başlaması",
+        "Mezuniyet yat partisinde Barış, Osman ve Pelinsu'nun Zeynep ve Şevval ile iletişimi kesmesi",
+        "1 sene sonra tatilde Doruk'un da iletişimi kesmesi"
+      ]
+    },
+    "results": [
+      {
+        "title": "Arkadaşlıkların bitmesi",
+        "description": "İki grup arasındaki arkadaşlıklar sona erdi, her grup kendi yoluna baktı."
+      },
+      {
+        "title": "Belirsiz zafer",
+        "description": "Kesin bir kazanan olmadı, her iki taraf da ayrıldı ve kendi yollarına baktı."
+      }
+    ],
+    "effects": [
+      {
+        "category": "Sosyal",
+        "description": "Mezuniyet yat partisinde Barış, Osman ve Pelinsu üçlüsü Zeynep ve Şevval ile iletişimi kesti.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Sosyal",
+        "description": "Doruk da 1 sene sonra bir tatilde iletişimi kesti.",
+        "impact": "long-term"
+      },
+      {
+        "category": "Sosyal",
+        "description": "Arkadaş grubu ikiye bölündü ve iki grup kendi yollarına baktı.",
+        "impact": "long-term"
+      }
+    ]
+  }
+]
