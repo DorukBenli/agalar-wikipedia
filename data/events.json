@@ -446,7 +446,7 @@
       {
         "name": "Osman Kara",
         "leaders": ["Osman Kara"],
-        "description": "Ödeme anlaşmazlığı yaşayan ve kuryeye 'anca gül böyle' diyen taraf."
+        "description": "Ödeme anlaşmazlığı yaşayan ve kuryeye 'anca küfret böyle' diyen taraf."
       },
       {
         "name": "Papa John's",
@@ -467,14 +467,14 @@
     "event": {
       "date": "2023",
       "location": "Sabancı Üniversitesi",
-      "description": "Osman Kara Papa John's'tan pizza sipariş eder. Kurye ödemeyi ilandan isteyince Osman bunu reddeder ve karşılığında bir sonraki gün aynı siparişi verme anlaşmasında bulunurlar. Osman bu siparişi verir, kurye pizzayı teslim etmemesi gerekirken pizzayı getirir. Ardından kurye Osman'ı arayarak parayı ister. Osman hayır deyince kurye Osman'a ana avrat küfreder, Osman da 'anca gül böyle' diyerek adamla taşak geçer.",
+      "description": "Osman Kara Papa John's'tan pizza sipariş eder. Kurye ödemeyi ilandan isteyince Osman bunu reddeder ve karşılığında bir sonraki gün aynı siparişi verme anlaşmasında bulunurlar. Osman bu siparişi verir, kurye pizzayı teslim etmemesi gerekirken pizzayı getirir. Ardından kurye Osman'ı arayarak parayı ister. Osman hayır deyince kurye Osman'a ana avrat küfreder, Osman da 'anca küfret böyle' diyerek adamla taşak geçer.",
       "keyMoments": [
         "Osman'ın pizza siparişi vermesi",
         "Kurye'nin ödemeyi ilandan istemesi",
         "Osman'ın reddetmesi ve anlaşma yapılması",
         "Kurye'nin anlaşmayı bozarak pizzayı getirmesi",
         "Kurye'nin para istemesi ve küfretmesi",
-        "Osman'ın 'anca gül böyle' demesi"
+        "Osman'ın 'anca küfret böyle' demesi"
       ]
     },
     "results": [
@@ -491,7 +491,7 @@
       },
       {
         "category": "Eğlence",
-        "description": "Osman kuryeye 'anca gül böyle' diyerek taşak geçti.",
+        "description": "Osman kuryeye 'anca küfret böyle' diyerek taşak geçti.",
         "impact": "short-term"
       }
     ]
@@ -640,7 +640,7 @@
         "Osman ve Doruk'un pizza iddiasına girmesi",
         "Osman'ın 'Ban Ciggers' mesajını atması",
         "Eylem komitesinde tartışmanın başlaması",
-        "Osman'ın gruptan atılması",
+        "Osman'ın eylem komitesinden atılması",
         "Doruk'un pizzasını alması"
       ]
     },
@@ -650,7 +650,7 @@
         "description": "Osman Kara eylem komitesinden atıldı."
       },
       {
-        "title": "Doruk'un İddiayı Kazanması",
+        "title": "Osman'ın İddiayı Kazanması",
         "description": "Doruk Benli Osman'a pizzasını aldı."
       }
     ],
