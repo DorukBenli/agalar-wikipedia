@@ -1,6 +1,7 @@
 import Link from "next/link";
 import eventsData from "@/data/events.json";
 import { HistoricalEvent } from "@/types/event";
+import { getAssetPath } from "@/lib/utils";
 
 const events: HistoricalEvent[] = eventsData as HistoricalEvent[];
 
@@ -25,7 +26,7 @@ export default function Home() {
                 {event.imageUrl && (
                   <div className="flex-shrink-0">
                     <img
-                      src={event.imageUrl}
+                      src={getAssetPath(event.imageUrl)}
                       alt={event.title}
                       className="w-48 h-32 object-cover rounded"
                     />
